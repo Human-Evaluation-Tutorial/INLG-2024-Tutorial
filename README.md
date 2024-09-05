@@ -1,1 +1,1 @@
-# Human-Evaluation-Tutorial-Resources
+# INLG-2024-Tutorial
